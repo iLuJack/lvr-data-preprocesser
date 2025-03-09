@@ -1,0 +1,18 @@
+# all-region data
+all-region
+
+#data
+data
+json
+all-region
+
+# MacOS
+.DS_Store
+
+# venv
+.venv
+new_venv
+my_venv
+
+# env
+.env
